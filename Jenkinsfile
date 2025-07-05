@@ -9,3 +9,20 @@ pipeline {
          	    } 
         }
 }
+stage("git_checkout") {  
+           	    steps {  
+              	    echo "cloning repository" 
+              	    echo "repo cloned successfully"  
+              	    }  
+         	    } 
+        }
+}online pet store 7 june
+stage("git_checkout") {  
+           	    steps {  
+              	    echo "cloning repository" 
+              	    echo "repo cloned successfully"  
+              	    }  
+         	    } 
+        }
+}online pet store 7 june
+online pet clinic opened
